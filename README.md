@@ -14,7 +14,7 @@ This repository contains my machine learning practice projects while learning AI
 
 | Project | Type | Models | Status |
 |----------|------|--------|--------|
-| House Price Prediction | Regression | Decision Tree, Random Forest | ✅ |
+| California House Price Prediction | Regression | Decision Tree, Random Forest | ✅ |
 | Medical Cost Prediction | Regression | Random Forest | ⏳ |
 | California Housing | Regression | Decision Tree, Random Forest | ⏳ |
 
